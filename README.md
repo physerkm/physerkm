@@ -1,7 +1,7 @@
 <h1 align="center" > <b> Who am I?  </b> </h1>
 
-<h4 align="center"> I’m Erkam. <I> aka </I> greyhatguy007 :sunglasses:  :ghost: </h4>
-<h4 align="center"> Aspiring Data Scientist. </h4>
+<h4 align="center"> I’m Erkam. <I> aka </I> physerkm :sunglasses:  :ghost: </h4>
+<h4 align="center"> Data Scientist </h4>
 <h4 align="center"> Believes in the fact that <b><i>"Knowledge is Open-Source" :muscle: </i></b> </h4>
 <br></br>
 
