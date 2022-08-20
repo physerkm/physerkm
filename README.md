@@ -1,10 +1,3 @@
-<p align="center">
-
-  <img src="https://github.com/greyhatguy007/resources/blob/main/Intro.gif" alt="Hi, I'm Erkam👋 I'm a 🚀 Turkish developer 🚀 I ❤️ Happy Hardcore ❤️">
-</p>
-
-<br/>
-
 <h1 align="center" > <b> Who am I?  </b> </h1>
 
 <h4 align="center"> I’m Erkam. <I> aka </I> greyhatguy007 :sunglasses:  :ghost: </h4>
