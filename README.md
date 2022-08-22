@@ -1,16 +1,18 @@
-<h1 align="center" > <b> Who am I?  </b> </h1>
+<h1 align="left" > <b> ABOUT ME </b> </h1>
 
-<h4 align="center"> I’m Erkam. <I> aka </I> physerkm :sunglasses:  :ghost: </h4>
-<h4 align="center"> Data Scientist </h4>
-<h4 align="center"> Believes in the fact that <b><i>"Knowledge is Open-Source" :muscle: </i></b> </h4>
-<br></br>
+<p>Thanks to my proactive approach, selflearning skills, and the courses I took at Boğaziçi University, I think I'm a suitable candidate for the positions of Software Engineer, Data Scientist, and Python Developer. </p>
 
 
-```python
+<h1 align="left" > <b> EDUCATİON </b> </h1>
 
-Started with a little bit ;
-Now I don't know how to quit !
-```
+Bogazici University \
+Master of Science - MS, Physics \
+2022 - 2024
+
+Boğazici University 
+Bachelor of Science - BS, Physics \
+2021
+
 
 
 
