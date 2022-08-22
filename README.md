@@ -9,7 +9,7 @@ Bogazici University \
 Master of Science - MS, Physics \
 2022 - 2024
 
-Boğazici University 
+Boğazici University \
 Bachelor of Science - BS, Physics \
 2021
 
