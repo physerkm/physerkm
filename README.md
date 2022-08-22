@@ -13,6 +13,10 @@ Boğazici University \
 Bachelor of Science - BS, Physics \
 2021
 
+<h1 align="left" > <b> SKILLS & ABILITIES </b> </h1>
+
+
+
 
 
 
