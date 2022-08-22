@@ -1,6 +1,6 @@
 <h1 align="left" > <b> ABOUT ME </b> </h1>
 
-<p>Thanks to my proactive approach, selflearning skills, and the courses I took at Boğaziçi University, I think I'm a suitable candidate for the positions of Software Engineer, Data Scientist, and Python Developer. </p>
+<p>Thanks to my proactive approach, self-learning skills, and the courses I took at Boğaziçi University, I think I'm a suitable candidate for the positions of Software Engineer, Data Scientist, and Python Developer. </p>
 
 
 <h1 align="left" > <b> EDUCATİON </b> </h1>
