@@ -3,7 +3,7 @@
 <p>Thanks to my proactive approach, self-learning skills, and the courses I took at Boğaziçi University, I think I'm a suitable candidate for the positions of Data Scientist and Python Developer. </p>
 
 
-<h1 align="left" > <b> EDUCATİON </b> </h1>
+<h1 align="left" > <b> EDUCATION </b> </h1>
 
 Bogazici University \
 Master of Science - MS, Physics \
