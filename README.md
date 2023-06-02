@@ -14,8 +14,6 @@ Bachelor of Science - BS, Physics \
 2021
 
 <h1 align="left" > <b> SKILLS & ABILITIES </b> </h1>
-
-<hr> </hr>
   
 #### Languages 
 <ul>
