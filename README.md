@@ -36,7 +36,6 @@ Bachelor of Science - BS, Physics \
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -71,10 +70,12 @@ Bachelor of Science - BS, Physics \
 <br/>
 
 
-<a href="https://www.linkedin.com/in/erkam-s-1410a9155?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BwYncYnM%2BRQ6w%2Bvc%2BFCtlWQ%3D%3D">
+<a href="https://www.linkedin.com/in/erkam-s-1410a9155/">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
+#### mail: erkam.sis@outlook.com
 #### mail: sis.erkam@gmail.com
+#### mail: erkam.sis@boun.edu.tr
 
 ## Reach Me ☝️
 
