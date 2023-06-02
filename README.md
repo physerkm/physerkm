@@ -50,17 +50,17 @@ Bachelor of Science - BS, Physics \
   </tr>
   <tr>
     <th>JavaScript</th>
-    <th></th>
-    <th></th>
+    <th> </th>
+    <th> </th>
   </tr>
   <tr>
-    <th></th>
-    <th></th>
+    <th> </th>
+    <th> </th>
     <th>Pandas</th>
   </tr>
   <tr>
-    <th></th>
-    <th></th>
+    <th> </th>
+    <th> </th>
     <th>Numpy</th>
   </tr>
 </table>
