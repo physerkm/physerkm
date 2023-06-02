@@ -1,4 +1,4 @@
-<h1 align="left" > <b> ABOUT ME </b> </h1>
+<h1 align="left" style="color:blue"> <b> ABOUT ME </b> </h1>
 
 <p>Thanks to my proactive approach, self-learning skills, and the courses I took at Boğaziçi University, I think I'm a suitable candidate for the positions of Data Scientist, Python Developer, and Frontend Developer </p>
 
