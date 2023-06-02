@@ -45,11 +45,8 @@ Bachelor of Science - BS, Physics \
 <a href="https://www.linkedin.com/in/erkam-s-1410a9155/">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
-#### mail: erkam.sis@outlook.com
-#### mail: sis.erkam@gmail.com
-#### mail: erkam.sis@boun.edu.tr
+#### mail: erkam.sis@outlook.com , sis.erkam@gmail.com , erkam.sis@boun.edu.tr
 
 ## Reach Me ☝️
-
 
 ![](https://hit.yhype.me/github/profile?user_id=77543865)
