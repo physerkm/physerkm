@@ -15,11 +15,6 @@ Bachelor of Science - BS, Physics \
 
 <h1 align="left" > <b> SKILLS & ABILITIES </b> </h1>
 
-
-
-
-
-
 <hr> </hr>
 
 <p align="center">
@@ -34,22 +29,22 @@ Bachelor of Science - BS, Physics \
 
 <b> Languages 🥸 </b>
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-
+<ul>
+  <li>Python</li>
+  <li>C & C++</li>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JavaScript</li>  
+</ul>
 <br/>
 
-<b> IDE's & Editors - Up & Running </b>
+<b> Frameworks </b>
 
-![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-
-<br/>
+<ul>
+  <li>React</li>
+  <li>Angular</li>
+  <li>OpenCV</li>
+</ul>
 
 <b> Machine Learning stuffs known & Learning </b>
 
@@ -59,13 +54,6 @@ Bachelor of Science - BS, Physics \
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-
-<br/>
-
-<b> Frameworks </b>
-
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
 <br/>
 
