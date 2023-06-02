@@ -16,55 +16,33 @@ Bachelor of Science - BS, Physics \
 <h1 align="left" > <b> SKILLS & ABILITIES </b> </h1>
 
 <hr> </hr>
+  
+#### Languages 
+<ul>
+  <li>Python</li>
+  <li>C & C++</li>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JavaScript</li>
+</ul>
 
-<p align="center">
-  <b> <u> Stuffs Going On... </u> </b>
-  <br/>
-  <br/>
+#### Frameworks
+<ul>
+  <li>React</li>
+  <li>Angular</li>
+  <li>OpenCV</li>
+</ul>
 
-<table>
-  <tr>
-    <th>Languages</th>
-    <th>Frameworks</th>
-    <th>Machine Learning stuffs known & Learning</th>
-  </tr>
-  <tr>
-    <td>Python</td>
-    <td>React</td>
-    <td>TensorFlow</td>
-  </tr>
-  <tr>
-    <td>C & C++</td>
-    <td>Angular</td>
-    <td>Keras</td>
-  </tr>
-  <tr>
-    <td>HTML</td>
-    <td>OpenCV</td>
-    <td>scikit-learn</td>
-  </tr>
-   <tr>
-    <td>CSS</td>
-    <td></td>
-    <td>PyTorch</td>
-  </tr>
-  <tr>
-    <th>JavaScript</th>
-    <th> </th>
-    <th> </th>
-  </tr>
-  <tr>
-    <th> </th>
-    <th> </th>
-    <th>Pandas</th>
-  </tr>
-  <tr>
-    <th> </th>
-    <th> </th>
-    <th>Numpy</th>
-  </tr>
-</table>
+#### Machine Learning stuffs known & Learning
 
+<ul>
+  <li>TensorFlow</li>
+  <li>Keras</li>
+  <li>scikit-learn</li>
+  <li>PyTorch</li>
+  <li>Pandas</li>
+  <li>Numpy</li>  
+</ul>
 
 <a href="https://www.linkedin.com/in/erkam-s-1410a9155/">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
